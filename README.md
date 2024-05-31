@@ -72,18 +72,32 @@ decryption Method:
 Decrypts the encrypted message using the RSA private key.
 
 Example
+
 yaml
+
 Copy code
+
 enter first  number:
+
 17
+
 enter the second  number:
+
 19
+
 Public key: 5
+
 Private key: 29
+
 Enter plain text
+
 hello
+
 pt: hello
-After Encryption: ?
-?A!!
+
+After Encryption: ??A!!
+
+
 Decrypted message: 
+
 hello
